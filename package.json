@@ -1,0 +1,29 @@
+{
+  "name": "sport.pl",
+  "version": "0.0.55",
+  "description": "Nowa HP sport.pl - wersja Feed",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Agora SA",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "",
+    "grunt-bless": "^0.2.0",
+    "grunt-contrib-clean": "",
+    "grunt-contrib-compass": "",
+    "grunt-contrib-compress": "",
+    "grunt-contrib-concat": "",
+    "grunt-contrib-connect": "",
+    "grunt-contrib-copy": "",
+    "grunt-contrib-csslint": "",
+    "grunt-contrib-sass": "~0.9.2",
+    "grunt-contrib-uglify": "^0.9.2",
+    "grunt-contrib-watch": "",
+    "grunt-htmlentities": "^0.1.1",
+    "grunt-transcode": "0.0.3",
+    "underscore": "^1.8.3"
+  }
+}
